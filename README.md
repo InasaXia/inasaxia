@@ -1,4 +1,4 @@
-### Hi,I'm InasaXia 👋.A backend developer. 
+### Hi,I'm InasaXia 👋.A backend developer.  Now working on flutter.
 
 ![](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
